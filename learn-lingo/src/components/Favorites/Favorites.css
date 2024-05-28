@@ -1,0 +1,16 @@
+/* Favorites.css */
+
+/* Stylizacja strony ulubionych */
+.favorites {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #f9f9f9;
+  }
+  
+  .favorites h1 {
+    text-align: center;
+    margin-bottom: 2rem;
+    color: #333;
+  }
+  
